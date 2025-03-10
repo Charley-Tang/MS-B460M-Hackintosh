@@ -16,6 +16,18 @@
 
 ## 更新日志
 
+- 2025-03-10
+  - Release `1.2.0`
+  - OpenCore `1.0.3`
+  - 支持 `macOS Ventura 13.7.4`
+  - 升级系统、解决关机数秒后开机
+
+- 2025-02-12
+  - Release `1.1.0`
+  - OpenCore `1.0.3`
+  - 支持 `macOS Ventura 13.3.1`
+  - 更新OC、Kext驱动
+
 - 2025-02-12
   - Release `1.0.0`
   - OpenCore `0.9.4`
